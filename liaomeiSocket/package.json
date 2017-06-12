@@ -1,0 +1,16 @@
+{
+  "name": "liaomei",
+  "version": "1.0.0",
+  "description": "the socket part for liaomei",
+  "main": "server.js",
+  "dependencies": {
+    "socket.io": "^1.3.7",
+    "mysql": "^2.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "liaomei",
+  "license": "ISC"
+}
